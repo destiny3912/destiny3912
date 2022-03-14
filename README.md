@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요 끝임없는 발전을 하는 개발자 이지호 입니다.
 
 <!--
 **destiny3912/destiny3912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![github stats](https://github-readme-stats.vercel.app/api?username=destiny3912&show_icons=true&hide_border=true)](https://github.com/destiny3912)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=destiny3912t&layout=compact)](https://github.com/destiny3912)
+
+<a href="" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/></a>
