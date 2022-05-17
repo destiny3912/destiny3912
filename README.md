@@ -1,4 +1,4 @@
-### 안녕하세요 끊임없 발전하는 개발자 이지호 입니다.
+### 안녕하세요 끊임없이 발전하는 개발자 이지호 입니다.
 
 <!--
 **destiny3912/destiny3912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
