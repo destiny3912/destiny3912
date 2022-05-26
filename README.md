@@ -1,5 +1,5 @@
 ### 안녕하세요 끊임없이 발전하는 개발자 이지호 입니다.
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdestiny3912)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdestiny3912&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **destiny3912/destiny3912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 😄 Pronouns: ...
