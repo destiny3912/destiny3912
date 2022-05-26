@@ -11,7 +11,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on....
-- 🌱 I’m currently learning Java-Spring, Bakc-End & Server
+- 🌱 I’m currently learning Java-Spring, Back-End & Server
 - 📫 How to reach me: vc54@naver.com
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=destiny3912&show_icons=true&hide_border=true)](https://github.com/destiny3912)
