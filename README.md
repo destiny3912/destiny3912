@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 [![github stats](https://github-readme-stats.vercel.app/api?username=destiny3912&show_icons=true&hide_border=true)](https://github.com/destiny3912)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=destiny3912&layout=compact)](https://github.com/destiny3912)
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Sping-007396?style=flat-square&logo=Spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Sping-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+ 
